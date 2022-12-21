@@ -1,0 +1,7 @@
+-c -u
+ab
+a
+abc
+abc
+ab
+ab
